@@ -1,0 +1,12 @@
+<style type="text/css">
+.admin_login{
+	 background-color : #d1d1d1; 
+	pointer-events:none;
+}
+.btn-disabled{
+	pointer-events:none;
+	cursor: not-allowed;
+}
+
+
+</style>
